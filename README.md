@@ -14,3 +14,7 @@ https://codepen.io/emmarosa/pen/wYOadX
 ReactTutorial - This was a tutorial to create a Connect Four Game. Using all learned from module 1 and 2. 
 
 https://codepen.io/emmarosa/pen/wYOagj
+
+ReactTutorial2 - this was a tutorial to buld an application that allows users to post topics and upvote/downvote the topics.
+
+https://codepen.io/emmarosa/pen/dgrMaz
