@@ -10,3 +10,7 @@ https://codepen.io/emmarosa/pen/ePbPEp
 ReactModule2 - This is a trivia application. This was created after learning about States, Life Cycles and Event handlers in ReactJS.
 
 https://codepen.io/emmarosa/pen/wYOadX
+
+ReactTutorial - This was a tutorial to create a Connect Four Game. Using all learned from module 1 and 2. 
+
+https://codepen.io/emmarosa/pen/wYOagj
