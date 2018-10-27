@@ -15,6 +15,10 @@ ReactTutorial - This was a tutorial to create a Connect Four Game. Using all lea
 
 https://codepen.io/emmarosa/pen/wYOagj
 
-ReactTutorial2 - this was a tutorial to buld an application that allows users to post topics and upvote/downvote the topics.
+ReactTutorial2 - This was a tutorial to buld an application that allows users to post topics and upvote/downvote the topics.
 
 https://codepen.io/emmarosa/pen/dgrMaz
+
+ReactModule3 - This application is a registration system that allows users to sign up for activities by submitting a form. All form submissions will be recorded into a table. (ongoing)
+
+https://codepen.io/emmarosa/pen/YJgWPa
